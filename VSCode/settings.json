@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Material Theme Darker High Contrast", // Equinusocio.vsc-material-theme
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "workbench.editor.untitled.hint": "hidden",
+  "liveSassCompile.settings.formats": [ // glenn2223.live-sass
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/src/css"
+    }
+  ],
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "MesloLGM NF",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme", // PKief.material-icon-theme
+  "tabnine.experimentalAutoImports": true,
+  "editor.linkedEditing": true,
+  "editor.fontFamily": "JetBrainsMono",
+  "editor.lineHeight": 28
+}

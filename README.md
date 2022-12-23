@@ -19,6 +19,6 @@
 
 <b>Browser Extensions - (Firefox Add-Ons)</b>
 
-- [`Browser-Extensions/Mue/mue-settings.json`](https://github.com/emr3rden/Browser-Extensions/tree/main/Mue/mue-settings.json) ~ [Mue](https://addons.mozilla.org/en-US/firefox/addon/mue/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [`Browser-Extensions/SimpleTranslate/SimpleTranslate_Settings.json`](https://github.com/emr3rden/Browser-Extensions/tree/main/SimpleTranslate/SimpleTranslate_Settings.json) ~ [Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [`Browser-Extensions/EnchancerForYoutube/settings.json`](https://github.com/emr3rden/Browser-Extensions/tree/main/EnchancerForYoutube/settings.json) ~ [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [`Browser-Extensions/Mue/mue-settings.json`](https://github.com/emr3rden/my-settings/tree/main/Browser-Extensions/Mue/mue-settings.json) ~ [Mue](https://addons.mozilla.org/en-US/firefox/addon/mue/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [`Browser-Extensions/SimpleTranslate/SimpleTranslate_Settings.json`](https://github.com/emr3rden/my-settings/tree/main/Browser-Extensions/SimpleTranslate/SimpleTranslate_Settings.json) ~ [Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [`Browser-Extensions/EnchancerForYoutube/settings.json`](https://github.com/emr3rden/my-settings/tree/main/Browser-Extensions/EnchancerForYoutube/settings.json) ~ [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)

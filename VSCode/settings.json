@@ -1,24 +1,60 @@
 {
-  "workbench.colorTheme": "Material Theme Darker High Contrast", // Equinusocio.vsc-material-theme
   "editor.wordWrap": "on",
   "editor.fontSize": 16,
   "workbench.editor.untitled.hint": "hidden",
-  "liveSassCompile.settings.formats": [ // glenn2223.live-sass
+
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "MesloLGM NF",
+  
+  "editor.formatOnSave": true,
+
+  "editor.linkedEditing": true,
+  "editor.fontFamily": "JetBrainsMono",
+  "editor.lineHeight": 28,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.inlineSuggest.enabled": true,
+
+  "window.commandCenter": true,
+  "workbench.editor.showTabs": true,
+  "window.titleBarStyle": "custom",
+
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorStyle": "block",
+
+  //////////////////////////////
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Equinusocio.vsc-material-theme
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  // Equinusocio.vsc-material-theme
+  
+  // PKief.material-icon-theme
+  "workbench.iconTheme": "material-icon-theme",
+  // PKief.material-icon-theme
+
+  // glenn2223.live-sass
+  "liveSassCompile.settings.formats": [
     {
       "format": "expanded",
       "extensionName": ".css",
       "savePath": "/src/css"
     }
   ],
-  "editor.fontLigatures": true,
-  "terminal.integrated.fontFamily": "MesloLGM NF",
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.formatOnSave": true,
-  "workbench.iconTheme": "material-icon-theme", // PKief.material-icon-theme
-  "tabnine.experimentalAutoImports": true,
-  "editor.linkedEditing": true,
-  "editor.fontFamily": "JetBrainsMono",
-  "editor.lineHeight": 28
+  // glenn2223.live-sass
+
+  // hoovercj.vscode-power-mode
+  "powermode.enabled": true,
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.location": "off",
+  "powermode.shake.enabled": false
+  // hoovercj.vscode-power-mode
 }

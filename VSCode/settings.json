@@ -5,8 +5,10 @@
 
   "editor.fontLigatures": true,
   "terminal.integrated.fontFamily": "MesloLGM NF",
-  
+
   "editor.formatOnSave": true,
+
+  "workbench.sideBar.location": "right",
 
   "editor.linkedEditing": true,
   "editor.fontFamily": "JetBrainsMono",
@@ -32,11 +34,14 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 
   // Equinusocio.vsc-material-theme
   "workbench.colorTheme": "Material Theme Darker High Contrast",
   // Equinusocio.vsc-material-theme
-  
+
   // PKief.material-icon-theme
   "workbench.iconTheme": "material-icon-theme",
   // PKief.material-icon-theme
@@ -55,6 +60,23 @@
   "powermode.enabled": true,
   "powermode.combo.counterEnabled": "hide",
   "powermode.combo.location": "off",
-  "powermode.shake.enabled": false
+  "powermode.shake.enabled": false,
   // hoovercj.vscode-power-mode
+
+  // oderwat.indent-rainbow
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.1)",
+    "rgba(127,255,127,0.1)",
+    "rgba(255,127,255,0.1)",
+    "rgba(79,236,236,0.1)"
+  ],
+  // oderwat.indent-rainbow
+
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  }
+  
 }

@@ -7,6 +7,9 @@
   "terminal.integrated.fontFamily": "MesloLGM NF",
 
   "editor.formatOnSave": true,
+  
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1500,
 
   "workbench.sideBar.location": "right",
 
@@ -14,13 +17,17 @@
   "editor.fontFamily": "JetBrainsMono",
   "editor.lineHeight": 28,
   "liveServer.settings.donotVerifyTags": true,
+
   "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
 
   "window.commandCenter": true,
   "workbench.editor.showTabs": true,
   "window.titleBarStyle": "custom",
 
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "smooth",
   "editor.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
@@ -29,6 +36,9 @@
   //////////////////////////////
 
   "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
